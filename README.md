@@ -1,5 +1,8 @@
 # El peaje del pueblo: sobreprecio de la gasolina en municipios con una sola gasolinera
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22165792.svg)](https://doi.org/10.5281/zenodo.22165792)
+
+
 Precio de la gasolina 95 E5 en cada municipio español que tiene **exactamente una** estación de
 servicio, comparado con la gasolinera más barata en un radio de 25 km.
 
@@ -66,6 +69,12 @@ es ya la más barata en 25 km. Esos registros se conservan.
   cifras distintas; la fecha del feed viene en el campo `fecha_miteco`.
 - El rótulo (`rotulo`) es el que declara la propia estación a MITECO y no siempre coincide con la
   propiedad real de la instalación.
+
+## Cómo citar
+
+Reclamar.es (2026). *Sobreprecio de la gasolina en municipios espanoles con una sola estacion de servicio*. Zenodo. https://doi.org/10.5281/zenodo.22165792
+
+El DOI anterior es el DOI de concepto: siempre apunta a la última versión. Para citar una versión concreta, use su propio DOI en el registro de Zenodo.
 
 ## Licencia y atribución
 
