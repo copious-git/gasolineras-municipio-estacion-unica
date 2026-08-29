@@ -1,20 +1,41 @@
 {
- "upload_type": "dataset",
- "title": "Sobreprecio de la gasolina en municipios espanoles con una sola estacion de servicio",
- "description": "<p>Precio de la gasolina 95 E5 en cada municipio espanol servido por una unica estacion de servicio, comparado con la estacion mas barata en un radio de 25 km. Un registro por municipio, 1.568 en total.</p><p>Calculado de forma determinista a partir de la API publica de precios de carburantes del Ministerio para la Transicion Ecologica y el Reto Demografico (MITECO). El municipio se identifica por IDMunicipio, no por nombre; la distancia es haversine sobre coordenadas WGS84; el deposito de referencia es de 50 litros.</p><p>Sobre 10.814 estaciones con gasolina 95 E5, el sobreprecio mediano es de 7,47 euros por deposito de 50 litros. El 68,0 % de los municipios de estacion unica pagan 5 euros o mas y el 28,1 % pagan 10 euros o mas. En 80 municipios el sobreprecio es cero o negativo.</p><p>English: the fuel price premium paid in Spanish municipalities served by a single petrol station, measured against the cheapest station within 25 km, computed from MITECO's public fuel price API.</p>",
- "creators": [{"name": "Reclamar.es"}],
- "license": "cc-by-4.0",
- "access_right": "open",
- "keywords": ["carburantes", "gasolina", "precios", "Espana", "Spain", "fuel prices",
-              "MITECO", "datos abiertos", "open data", "despoblacion", "rural depopulation",
-              "estaciones de servicio"],
- "related_identifiers": [
-  {"relation": "isDocumentedBy",
-   "identifier": "https://reclamar.es/precios-gasolina",
-   "resource_type": "publication-webpage"},
-  {"relation": "isDerivedFrom",
-   "identifier": "https://sedeaplicaciones.minetur.gob.es/ServiciosRESTCarburantes/PreciosCarburantes/EstacionesTerrestres/",
-   "resource_type": "dataset"}
- ],
- "notes": "Datos de origen: MITECO, API publica de precios de carburantes, reutilizados conforme a la Ley 37/2007 y el Real Decreto 1495/2011 sobre reutilizacion de la informacion del sector publico. El conjunto derivado se publica bajo CC BY 4.0. Los precios de MITECO cambian a diario; cada registro lleva la fecha del feed en el campo fecha_miteco."
+  "title": "Sobreprecio de la gasolina en municipios espanoles con una sola estacion de servicio",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Reclamar.es"
+    }
+  ],
+  "description": "<p>Precio de la gasolina 95 E5 en cada municipio espanol servido por una unica estacion de servicio, comparado con la estacion mas barata en un radio de 25 km. Un registro por municipio, 1.568 en total.</p><p>Calculado de forma determinista a partir de la API publica de precios de carburantes del Ministerio para la Transicion Ecologica y el Reto Demografico (MITECO). El municipio se identifica por IDMunicipio, no por nombre; la distancia es haversine sobre coordenadas WGS84; el deposito de referencia es de 50 litros.</p><p>Sobre 10.814 estaciones con gasolina 95 E5, el sobreprecio mediano es de 7,47 euros por deposito de 50 litros. El 68,0 % de los municipios de estacion unica pagan 5 euros o mas y el 28,1 % pagan 10 euros o mas. En 80 municipios el sobreprecio es cero o negativo.</p><p>English: the fuel price premium paid in Spanish municipalities served by a single petrol station, measured against the cheapest station within 25 km, computed from MITECO's public fuel price API.</p>",
+  "keywords": [
+    "carburantes",
+    "gasolina",
+    "precios",
+    "Espana",
+    "Spain",
+    "fuel prices",
+    "MITECO",
+    "datos abiertos",
+    "open data",
+    "despoblacion",
+    "rural depopulation",
+    "estaciones de servicio"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://reclamar.es/precios-gasolina",
+      "resource_type": "other"
+    },
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://sedeaplicaciones.minetur.gob.es/ServiciosRESTCarburantes/PreciosCarburantes/EstacionesTerrestres/",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Datos de origen: MITECO, API publica de precios de carburantes, reutilizados conforme a la Ley 37/2007 y el Real Decreto 1495/2011 sobre reutilizacion de la informacion del sector publico. El conjunto derivado se publica bajo CC BY 4.0. Los precios de MITECO cambian a diario; cada registro lleva la fecha del feed en el campo fecha_miteco."
 }
