@@ -101,5 +101,8 @@ Páginas de Reclamar.es que utilizan o amplían este conjunto de datos:
   nacionales y por provincia, y el desglose de impuestos sobre el precio final.
 - [Mapa de la gasolina 2026](https://reclamar.es/datos/mapa-gasolina-2026): análisis de las
   diferencias de precio entre comunidades autónomas y su explicación.
+- [La subida de carburantes del 1 de octubre de 2026](https://reclamar.es/datos/subida-carburantes-octubre-2026):
+  qué ocurre con el precio del gasóleo y de la gasolina cuando expira la bonificación del
+  Impuesto sobre Hidrocarburos el 30 de septiembre de 2026, provincia a provincia.
 - [Conjuntos de datos abiertos de Reclamar.es](https://reclamar.es/datos): el resto de datos
   públicos que publicamos, con su procedencia y licencia.
