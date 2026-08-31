@@ -33,6 +33,8 @@ Datos MITECO de **29 de agosto de 2026, 21:11**.
 | Municipios con sobreprecio de 5 € o más | 68,0 % |
 | Municipios con sobreprecio de 10 € o más | 28,1 % |
 
+> Estas cifras son una instantánea del feed del MITECO en la fecha indicada, no un total estable. El número de municipios con una sola estación cambia a diario según qué estaciones declaran precio: el 31 de agosto de 2026 eran 1.560. La cifra de 10.814 cuenta solo estaciones que declaran gasolina 95 E5, no el total de estaciones de servicio del país, que es mayor.
+
 Provincias con la mediana más alta: **Girona** (14,85 €), **Tarragona** (13,88 €),
 **Alicante** (11,23 €), **Barcelona** (11,20 €), **Zaragoza** (11,05 €).
 
