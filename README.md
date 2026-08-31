@@ -88,3 +88,16 @@ El conjunto derivado se publica como CC BY 4.0 con atribución a Reclamar.es.
 - Portal de precios de carburantes del Ministerio:
   https://geoportalgasolineras.es/
 - Precios actualizados y buscador por municipio: https://reclamar.es/precios-gasolina
+
+## Recursos relacionados
+
+Páginas de Reclamar.es que utilizan o amplían este conjunto de datos:
+
+- [Precios de la gasolina por municipio](https://reclamar.es/precios-gasolina): precios diarios
+  del MITECO para cada municipio y provincia, con la estación más barata de cada localidad.
+- [Estadísticas de carburantes en España](https://reclamar.es/estadisticas/gasolina): medias
+  nacionales y por provincia, y el desglose de impuestos sobre el precio final.
+- [Mapa de la gasolina 2026](https://reclamar.es/datos/mapa-gasolina-2026): análisis de las
+  diferencias de precio entre comunidades autónomas y su explicación.
+- [Conjuntos de datos abiertos de Reclamar.es](https://reclamar.es/datos): el resto de datos
+  públicos que publicamos, con su procedencia y licencia.
